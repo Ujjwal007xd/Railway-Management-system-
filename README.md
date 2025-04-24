@@ -13,3 +13,4 @@ Technologies Used
 PHP: Server-side scripting language for application logic.
 MySQL: Database management system for storing railway data.
 Localhost Server: Using XAMPP, WAMP, or similar for local development.
+ this project is done by ujjwal jha (1/23//SET/BCS/212) , simran dhanai(1/23/SET/BCS/193) and shreya sridhar under the guidance of Mrs SHOBHA TYAGI MA'AM
